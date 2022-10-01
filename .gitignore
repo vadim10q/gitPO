@@ -1,2 +1,5 @@
 *.log
 !error.log
+*.db
+/target
+/bin
