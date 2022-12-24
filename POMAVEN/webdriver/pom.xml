@@ -23,8 +23,19 @@
 
 
 
-
-
+    <!-- https://mvnrepository.com/artifact/org.testng/testng -->
+    <dependency>
+        <groupId>org.testng</groupId>
+        <artifactId>testng</artifactId>
+        <version>7.7.0</version>
+        <scope>test</scope>
+    </dependency>
+    <dependency>
+        <groupId>org.testng</groupId>
+        <artifactId>testng</artifactId>
+        <version>7.0.0-beta1</version>
+        <scope>test</scope>
+    </dependency>
 
 
 </dependencies>
